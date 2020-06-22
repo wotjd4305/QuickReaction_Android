@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "날짜">
+        <item>1일 전</item>
+        <item>2일 전</item>
+        <item>3일 전</item>
+        <item>4일 전</item>
+        <item>5일 전</item>
+        <item>6일 전</item>
+        <item>7일 전</item>
+        <item>8일 전</item>
+        <item>9일 전</item>
+        <item>10일 전</item>
+        <item>11일 전</item>
+        <item>12일 전</item>
+        <item>13일 전</item>
+        <item>14일 전</item>
+    </string-array>
+</resources>

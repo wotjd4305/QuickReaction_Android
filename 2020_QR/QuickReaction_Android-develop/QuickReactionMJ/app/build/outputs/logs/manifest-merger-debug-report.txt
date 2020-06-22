@@ -1,0 +1,836 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\60c9cb631283b04d90b7f29c669456fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\7ddd2827e008509cf61aecf242ab5dfb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\da0da54bcbc03491b16166207e4789a6\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\51a1f955ea8285d3014af41877473cd2\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0ac6853fb9d7afdcc076d656238216ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f0e99103301258a849123e872ddf6fcd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\785d4de33d79b3e0e8685c7f549d760e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8b8280c426c0c8550a9d52daaf26321e\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9946cacdc00643d61fb4643f6c69ca0c\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\14dad46796b0beb4bb046ec07f88787a\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5f6bbfea9e481e1aaee219c6142fbefb\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f0d04ec04b149c40aca1d48b7534a64\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d411223ecc823bdfa6ce40d6a4ece473\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f49ad659f3810005a8397fd71ff9302b\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\de02fcf46a45cd4e5962b75c8db4c4ab\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ac23a81133258e4377a9821498186ebe\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28e17899e70faf7bb185e9812fd2cb7a\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\fa008f4d8331a3a8cbc36d1058f12d97\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\c280c08bb42537848f1255bded661837\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\c5fa29b4cc654324393489b96ace575d\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\77084739a43c5c0ed2de02cb8b09d34f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9d60a2cbed1570327f9b75b626a1eb09\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\12c265f037785d30890d3f33812a87b9\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9a2c6585ac62d3f1f20cdccbb038ba7\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\1773255256be359e3fd51caf71d67ca4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\81c509ab2c60c5133cf3ac0f9ba04bfb\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\cb8615a7710f4a02cc3b02793956594e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\aa30dce10a3babc0459e723e05d5c226\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\eff48339e4945f08505b67887c56b767\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\b214473c220345f9fbd46cd3ac530c65\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\912a1e3245606e3ce04479b828c53880\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e5248cf298dd9653eb2de9d22703d6f4\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2ec3d8355befc45d596875ca682bd4f1\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8b313600efaba2e540b42057e73a62fb\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\303f027715bddde9dd7a5c83a05cf043\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ee0ec7fc625c8d41ece1afc5bce4d755\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28f1c2d1a1b2ef8800d6f34cad47fed7\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f90c824b1104b7ace5e7e095f1aa7bd1\AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9127a61f2c062c6cbe902b6d8a5e4c88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\fd177e76487e821b1418a879a257707a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8892df627267ae21b37bf2d06d740e25\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb1bfc1d8d371ec59248d2e0d22022d2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9ba2364600075709a25bbe341df65aa6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\383d8bc986446e378fafc2664bc9f5ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8849527bdc0c9f32c116bd07f29d07d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4e312b380fbd8fe86712a9bf364ea753\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e05730379a3ccccc5e1ba3d63fdf9abf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e2794a094394641e22fff195350ff69e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\a13975434da1bf5fd4b1c232381c536f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\3ec807e0af189f3f2c7fc0893e879e38\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\412c55a68f9e923fb3d6562150143839\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba135a3ae008dad5b4cf38736d65bd69\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f7f62442cdd53b04e46d6312603976cb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9fbae3237da28c55f48255a9eadbf0ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\722661af3c63a5436fbcec6ce45859b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d4eaf45200bcb2cfdc18c0132b79b32f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0844661a680cd368eaf74136c77d56b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c1b7be4063afe809b2e9e61cc2992b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\98901159d03f73fe086d2ab69a8f7a12\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\edc339e413b87e32bfd477f36d1d5658\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4f5c8edfacb4e4354ba5ab8b0746bba4\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\dcd20c2512b847d6a9a554eb63b24edb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\77fd32a7a46fae9ca10eb111be46a903\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4ddebc8a81bbd5469c0cc4dea53cba68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\6f03588e4e707c626900277a87202e28\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\933c8063da40e5c2a2ce2d3139da0f8f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e8f8fe89ee5f561c116b0705de7faf43\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f7c0603336621d15220aa752241b2fa0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\be2a40065279da2c6025b25a5c7a3dbb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bfa078d41f707aaacea21c4aabe2e4fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\05f19a08bcfbab273e164f0d7b0c9f8b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:6:5-33:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\7ddd2827e008509cf61aecf242ab5dfb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\7ddd2827e008509cf61aecf242ab5dfb\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\da0da54bcbc03491b16166207e4789a6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\da0da54bcbc03491b16166207e4789a6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\51a1f955ea8285d3014af41877473cd2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\51a1f955ea8285d3014af41877473cd2\AndroidManifest.xml:18:5-19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\785d4de33d79b3e0e8685c7f549d760e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\785d4de33d79b3e0e8685c7f549d760e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\14dad46796b0beb4bb046ec07f88787a\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\14dad46796b0beb4bb046ec07f88787a\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f0d04ec04b149c40aca1d48b7534a64\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f0d04ec04b149c40aca1d48b7534a64\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d411223ecc823bdfa6ce40d6a4ece473\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d411223ecc823bdfa6ce40d6a4ece473\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f49ad659f3810005a8397fd71ff9302b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f49ad659f3810005a8397fd71ff9302b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\de02fcf46a45cd4e5962b75c8db4c4ab\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\de02fcf46a45cd4e5962b75c8db4c4ab\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ac23a81133258e4377a9821498186ebe\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ac23a81133258e4377a9821498186ebe\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28e17899e70faf7bb185e9812fd2cb7a\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28e17899e70faf7bb185e9812fd2cb7a\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\fa008f4d8331a3a8cbc36d1058f12d97\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\fa008f4d8331a3a8cbc36d1058f12d97\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\c280c08bb42537848f1255bded661837\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\c280c08bb42537848f1255bded661837\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\77084739a43c5c0ed2de02cb8b09d34f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\77084739a43c5c0ed2de02cb8b09d34f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\12c265f037785d30890d3f33812a87b9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\12c265f037785d30890d3f33812a87b9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9a2c6585ac62d3f1f20cdccbb038ba7\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9a2c6585ac62d3f1f20cdccbb038ba7\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\1773255256be359e3fd51caf71d67ca4\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\1773255256be359e3fd51caf71d67ca4\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\81c509ab2c60c5133cf3ac0f9ba04bfb\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\81c509ab2c60c5133cf3ac0f9ba04bfb\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\cb8615a7710f4a02cc3b02793956594e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\cb8615a7710f4a02cc3b02793956594e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\aa30dce10a3babc0459e723e05d5c226\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\aa30dce10a3babc0459e723e05d5c226\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\eff48339e4945f08505b67887c56b767\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\eff48339e4945f08505b67887c56b767\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\b214473c220345f9fbd46cd3ac530c65\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\b214473c220345f9fbd46cd3ac530c65\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\912a1e3245606e3ce04479b828c53880\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\912a1e3245606e3ce04479b828c53880\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ee0ec7fc625c8d41ece1afc5bce4d755\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ee0ec7fc625c8d41ece1afc5bce4d755\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28f1c2d1a1b2ef8800d6f34cad47fed7\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28f1c2d1a1b2ef8800d6f34cad47fed7\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f90c824b1104b7ace5e7e095f1aa7bd1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f90c824b1104b7ace5e7e095f1aa7bd1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:45:5-53:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\98901159d03f73fe086d2ab69a8f7a12\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\98901159d03f73fe086d2ab69a8f7a12\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4f5c8edfacb4e4354ba5ab8b0746bba4\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4f5c8edfacb4e4354ba5ab8b0746bba4\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\98901159d03f73fe086d2ab69a8f7a12\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:9:9-40
+	android:roundIcon
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:10:9-47
+	android:icon
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:8:9-42
+	android:allowBackup
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.QuickReactionMJ.LoginActivity
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:13:9-51
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:13:19-48
+activity#com.example.QuickReactionMJ.IntroActivity
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:15:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.QuickReactionMJ.MainActivity
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.QuickReactionMJ.QrActivity
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:23:9-48
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:23:19-45
+activity#com.example.QuickReactionMJ.QRMaker
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:24:9-45
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:24:19-42
+activity#com.example.QuickReactionMJ.ManagerActivity
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:25:19-50
+activity#com.example.QuickReactionMJ.RegisterTest
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:26:19-47
+activity#com.example.QuickReactionMJ.AgreeActivity
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.example.QuickReactionMJ.MapActivity
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:28:9-48
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:28:19-46
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:29:9-32:49
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:46:9-52:63
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:46:9-52:63
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:48:13-45
+	android:screenOrientation
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:31:13-51
+		REJECTED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:49:13-56
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:51:13-54
+	tools:replace
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:32:13-46
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:30:13-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:34:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\912a1e3245606e3ce04479b828c53880\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\912a1e3245606e3ce04479b828c53880\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:34:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:35:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\1773255256be359e3fd51caf71d67ca4\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\1773255256be359e3fd51caf71d67ca4\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:36:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:37:5-38:23
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:37:22-76
+meta-data#com.kakao.sdk.AppKey
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:39:5-102
+	android:value
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:39:52-100
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:39:16-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml:41:22-78
+uses-sdk
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\60c9cb631283b04d90b7f29c669456fc\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\60c9cb631283b04d90b7f29c669456fc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\7ddd2827e008509cf61aecf242ab5dfb\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\7ddd2827e008509cf61aecf242ab5dfb\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\da0da54bcbc03491b16166207e4789a6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\da0da54bcbc03491b16166207e4789a6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\51a1f955ea8285d3014af41877473cd2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\51a1f955ea8285d3014af41877473cd2\AndroidManifest.xml:17:5-43
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0ac6853fb9d7afdcc076d656238216ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0ac6853fb9d7afdcc076d656238216ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f0e99103301258a849123e872ddf6fcd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f0e99103301258a849123e872ddf6fcd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\785d4de33d79b3e0e8685c7f549d760e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\785d4de33d79b3e0e8685c7f549d760e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8b8280c426c0c8550a9d52daaf26321e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8b8280c426c0c8550a9d52daaf26321e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9946cacdc00643d61fb4643f6c69ca0c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9946cacdc00643d61fb4643f6c69ca0c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\14dad46796b0beb4bb046ec07f88787a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\14dad46796b0beb4bb046ec07f88787a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5f6bbfea9e481e1aaee219c6142fbefb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5f6bbfea9e481e1aaee219c6142fbefb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f0d04ec04b149c40aca1d48b7534a64\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f0d04ec04b149c40aca1d48b7534a64\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d411223ecc823bdfa6ce40d6a4ece473\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d411223ecc823bdfa6ce40d6a4ece473\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f49ad659f3810005a8397fd71ff9302b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f49ad659f3810005a8397fd71ff9302b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\de02fcf46a45cd4e5962b75c8db4c4ab\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\de02fcf46a45cd4e5962b75c8db4c4ab\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ac23a81133258e4377a9821498186ebe\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ac23a81133258e4377a9821498186ebe\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28e17899e70faf7bb185e9812fd2cb7a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28e17899e70faf7bb185e9812fd2cb7a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\fa008f4d8331a3a8cbc36d1058f12d97\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\fa008f4d8331a3a8cbc36d1058f12d97\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\c280c08bb42537848f1255bded661837\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\c280c08bb42537848f1255bded661837\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\c5fa29b4cc654324393489b96ace575d\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\c5fa29b4cc654324393489b96ace575d\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\77084739a43c5c0ed2de02cb8b09d34f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\77084739a43c5c0ed2de02cb8b09d34f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9d60a2cbed1570327f9b75b626a1eb09\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9d60a2cbed1570327f9b75b626a1eb09\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\12c265f037785d30890d3f33812a87b9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\12c265f037785d30890d3f33812a87b9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9a2c6585ac62d3f1f20cdccbb038ba7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9a2c6585ac62d3f1f20cdccbb038ba7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\1773255256be359e3fd51caf71d67ca4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\1773255256be359e3fd51caf71d67ca4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\81c509ab2c60c5133cf3ac0f9ba04bfb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\81c509ab2c60c5133cf3ac0f9ba04bfb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\cb8615a7710f4a02cc3b02793956594e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\cb8615a7710f4a02cc3b02793956594e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\aa30dce10a3babc0459e723e05d5c226\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\aa30dce10a3babc0459e723e05d5c226\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\eff48339e4945f08505b67887c56b767\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\eff48339e4945f08505b67887c56b767\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\b214473c220345f9fbd46cd3ac530c65\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\b214473c220345f9fbd46cd3ac530c65\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\912a1e3245606e3ce04479b828c53880\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\912a1e3245606e3ce04479b828c53880\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e5248cf298dd9653eb2de9d22703d6f4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e5248cf298dd9653eb2de9d22703d6f4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2ec3d8355befc45d596875ca682bd4f1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2ec3d8355befc45d596875ca682bd4f1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8b313600efaba2e540b42057e73a62fb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8b313600efaba2e540b42057e73a62fb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\303f027715bddde9dd7a5c83a05cf043\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\303f027715bddde9dd7a5c83a05cf043\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ee0ec7fc625c8d41ece1afc5bce4d755\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ee0ec7fc625c8d41ece1afc5bce4d755\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28f1c2d1a1b2ef8800d6f34cad47fed7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\28f1c2d1a1b2ef8800d6f34cad47fed7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f90c824b1104b7ace5e7e095f1aa7bd1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f90c824b1104b7ace5e7e095f1aa7bd1\AndroidManifest.xml:17:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9127a61f2c062c6cbe902b6d8a5e4c88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9127a61f2c062c6cbe902b6d8a5e4c88\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:19:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\fd177e76487e821b1418a879a257707a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\fd177e76487e821b1418a879a257707a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8892df627267ae21b37bf2d06d740e25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8892df627267ae21b37bf2d06d740e25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb1bfc1d8d371ec59248d2e0d22022d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb1bfc1d8d371ec59248d2e0d22022d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9ba2364600075709a25bbe341df65aa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9ba2364600075709a25bbe341df65aa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\383d8bc986446e378fafc2664bc9f5ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\383d8bc986446e378fafc2664bc9f5ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8849527bdc0c9f32c116bd07f29d07d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8849527bdc0c9f32c116bd07f29d07d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4e312b380fbd8fe86712a9bf364ea753\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4e312b380fbd8fe86712a9bf364ea753\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e05730379a3ccccc5e1ba3d63fdf9abf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e05730379a3ccccc5e1ba3d63fdf9abf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e2794a094394641e22fff195350ff69e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e2794a094394641e22fff195350ff69e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\a13975434da1bf5fd4b1c232381c536f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\a13975434da1bf5fd4b1c232381c536f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\3ec807e0af189f3f2c7fc0893e879e38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\3ec807e0af189f3f2c7fc0893e879e38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\412c55a68f9e923fb3d6562150143839\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\412c55a68f9e923fb3d6562150143839\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba135a3ae008dad5b4cf38736d65bd69\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba135a3ae008dad5b4cf38736d65bd69\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f7f62442cdd53b04e46d6312603976cb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f7f62442cdd53b04e46d6312603976cb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9fbae3237da28c55f48255a9eadbf0ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9fbae3237da28c55f48255a9eadbf0ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\722661af3c63a5436fbcec6ce45859b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\722661af3c63a5436fbcec6ce45859b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d4eaf45200bcb2cfdc18c0132b79b32f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d4eaf45200bcb2cfdc18c0132b79b32f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0844661a680cd368eaf74136c77d56b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0844661a680cd368eaf74136c77d56b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c1b7be4063afe809b2e9e61cc2992b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c1b7be4063afe809b2e9e61cc2992b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\98901159d03f73fe086d2ab69a8f7a12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\98901159d03f73fe086d2ab69a8f7a12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\edc339e413b87e32bfd477f36d1d5658\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\edc339e413b87e32bfd477f36d1d5658\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4f5c8edfacb4e4354ba5ab8b0746bba4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4f5c8edfacb4e4354ba5ab8b0746bba4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\dcd20c2512b847d6a9a554eb63b24edb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\dcd20c2512b847d6a9a554eb63b24edb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\77fd32a7a46fae9ca10eb111be46a903\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\77fd32a7a46fae9ca10eb111be46a903\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4ddebc8a81bbd5469c0cc4dea53cba68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\4ddebc8a81bbd5469c0cc4dea53cba68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\6f03588e4e707c626900277a87202e28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\6f03588e4e707c626900277a87202e28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\933c8063da40e5c2a2ce2d3139da0f8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\933c8063da40e5c2a2ce2d3139da0f8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e8f8fe89ee5f561c116b0705de7faf43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e8f8fe89ee5f561c116b0705de7faf43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f7c0603336621d15220aa752241b2fa0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f7c0603336621d15220aa752241b2fa0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\be2a40065279da2c6025b25a5c7a3dbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\be2a40065279da2c6025b25a5c7a3dbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bfa078d41f707aaacea21c4aabe2e4fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bfa078d41f707aaacea21c4aabe2e4fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\05f19a08bcfbab273e164f0d7b0c9f8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\05f19a08bcfbab273e164f0d7b0c9f8b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remge\AndroidStudioProjects\QuickReactionMJ\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\09edf9259f63b96f65a5046f20190450\AndroidManifest.xml:7:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\e6b40015ac3b2babeb52081c8814b7a8\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\97c9b34f9b89af865e131d00fe5a306b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\0c29b6acae0ee960a3ef2a49cbb3993b\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\d41e39248ec79e564addbff8fca05bd8\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\935ce3f32f8cda36d030a7255ed44202\AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ba791fcc93f69705c41118d2da3461d3\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\2a0fdb9dfdd692932cfdc3becbc4cd3e\AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\8d1af95b25bf090b628b9917fc54665d\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\060d64619758db40fcd4dd282c71f475\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\712f14691a3f8046a3f562dd0def0a5f\AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.example.QuickReactionMJ
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\19f332bd1c174b18c1d4825407bf7eb1\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\ebc90f45e6389da6ca2cfbcfda3f100a\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\5ee509b0a77dd0e10a83794821d1cf41\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:24:17-71
+permission#com.example.QuickReactionMJ.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:26:22-76
+uses-permission#com.example.QuickReactionMJ.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.QuickReactionMJ
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:33:27-58
+category#com.example.QuickReactionMJ
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\9f8c9be0d9ee95e816f32bebeb468c48\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\bb49bfc30f66f45b25da6cc258b0c92d\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f90c824b1104b7ace5e7e095f1aa7bd1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f90c824b1104b7ace5e7e095f1aa7bd1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f90c824b1104b7ace5e7e095f1aa7bd1\AndroidManifest.xml:20:20-65
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\remge\.gradle\caches\transforms-2\files-2.1\f9f53ca0f47de8ad8674441a11d5a5b1\AndroidManifest.xml:42:9-45
